@@ -13,7 +13,7 @@ This project implements unigram and bigram language models with:
 ## Files
 
 - `NLP_Ngramsfinal.py` - Main implementation with n-gram models
-- `CS6320_Assignment_1.pdf` - Report
+- `CS6320_Assignment1_report.pdf` - Report
 
 ## Key Features
 
